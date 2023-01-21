@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shrinand/static/css/main.5dfa0da9.css",
+    "main.js": "/shrinand/static/js/main.571bf95b.js",
+    "static/media/shrinand.jpeg": "/shrinand/static/media/shrinand.cbb2e85be7fd77a750d7.jpeg",
+    "static/media/sk.pdf": "/shrinand/static/media/sk.2cba21918ebaa18ab0e3.pdf",
+    "static/media/sknew.jpeg": "/shrinand/static/media/sknew.9f94e5b41400ee7199ca.jpeg",
+    "index.html": "/shrinand/index.html",
+    "main.5dfa0da9.css.map": "/shrinand/static/css/main.5dfa0da9.css.map",
+    "main.571bf95b.js.map": "/shrinand/static/js/main.571bf95b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dfa0da9.css",
+    "static/js/main.571bf95b.js"
+  ]
+}
