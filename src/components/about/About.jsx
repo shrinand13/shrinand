@@ -35,7 +35,7 @@ const about = () => {
         Hi my name Shrinand Kulkarni, I am from Pune Maharashtra.
         In my leisure time i like to read about space and technology, play some computer games and listen some music.
         I have intrest in JAVA programming language and React js. I like to work on miny projects which add on to my 
-        coding knowledge.x  
+        coding knowledge. 
       </p>
       
 
